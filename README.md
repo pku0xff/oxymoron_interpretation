@@ -1,2 +1,3 @@
 # oxymoron_interpretation
-Oxymoron with Context-Based Interpretation Dataset
+
+Data for paper *Creative Destruction: Can Language Models Interpret Oxymorons?*
